@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="471.01889"
+   height="158.50725"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="tiles.svg"
+   inkscape:export-filename="E:\Mrunal\Sandbox\TodFod\Assets\tiles.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="276.29333"
+     inkscape:cy="140.21701"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.4191391,-556.36542)">
+    <rect
+       style="fill:#217821;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3943"
+       width="141.73315"
+       height="37.879444"
+       x="9.5495176"
+       y="566.36542"
+       ry="9.4771681" />
+    <rect
+       style="fill:#784421;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3943-5"
+       width="141.73315"
+       height="37.879444"
+       x="166.99057"
+       y="565.5647"
+       ry="9.4771681" />
+    <rect
+       style="fill:#ccff00;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3943-2"
+       width="141.73315"
+       height="37.879444"
+       x="322.70486"
+       y="567.70758"
+       ry="9.4771681" />
+    <rect
+       style="fill:#ff5555;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3943-3"
+       width="141.73315"
+       height="37.879444"
+       x="9.1334248"
+       y="616.27899"
+       ry="9.4771681" />
+    <rect
+       style="fill:#483e37;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3943-1"
+       width="141.73315"
+       height="37.879444"
+       x="167.70485"
+       y="616.27899"
+       ry="9.4771681" />
+    <rect
+       style="fill:#66ff00;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3943-6"
+       width="141.73315"
+       height="37.879444"
+       x="326.99057"
+       y="619.13611"
+       ry="9.4771681" />
+    <rect
+       style="fill:#ff6600;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3943-8"
+       width="141.73315"
+       height="37.879444"
+       x="11.990568"
+       y="669.13605"
+       ry="9.4771681" />
+    <rect
+       style="fill:#ffcc00;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3943-82"
+       width="141.73315"
+       height="37.879444"
+       x="166.99059"
+       y="669.13611"
+       ry="9.4771681" />
+    <rect
+       style="fill:#00d4aa;fill-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3943-7"
+       width="141.73315"
+       height="37.879444"
+       x="327.70486"
+       y="668.42181"
+       ry="9.4771681" />
+  </g>
+</svg>
